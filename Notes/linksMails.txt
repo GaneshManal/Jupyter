@@ -1,0 +1,16 @@
+I am in the process of defining a long term and ongoing project for both of you. In the interim (i.e. next 2 weeks), I want you to develop samples in Jypter Notes using iPython and explain me along the way.
+ 
+This is becoming a very important aspect of all data science products and projects.  It is quite likely that our next project will use a lot of these concepts.
+ 
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials
+ 
+Let us start in the following order:
+1.  Set up Jypter notes locally
+2.  What is the flow it uses to create charts? – where is the data set? How is code embedded? How is it invoked?
+3.  Create simple examples and gradually increase complexity
+
+_______________________________________________________________________________________________________________
+
+Remote Access to IPython Notebooks via SSH
+https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh
+

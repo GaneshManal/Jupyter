@@ -1,5 +1,7 @@
 from datetime import datetime
 from elasticsearch import Elasticsearch
+import json
+
 
 def read_data():
     es = Elasticsearch(host="10.11.0.199", port="9200")
@@ -17,12 +19,26 @@ def read_data():
     '''
 
     # Read the specific documents from the index - python_test_data
-    res = es.search(index="python_test_data", doc_type="dknow", size='10000', body={"query": {"match": {"hostName": "B"}}})
+    result = es.search(index="python_test_data", doc_type="dknow", size='10000', body={"query": {"match": {"hostName": "B"}}})
+    # print('Result :', result, type(result))
+    keys, data = [], []
 
-    data = []
-    for item in  res['hits']['hits']:
-        data.append(item['_source'].values())
-        # print item['_source']
-        # data.append(item['_source'])
+    if len(result.get('hits').get('hits')) > 0:
+        keys = result['hits']['hits'][0]['_source'].keys()
+        for item in  result['hits']['hits']:
+            data.append(item['_source'].values())
+            # print item['_source']
+            # data.append(item['_source'])
 
-    return data
+    # print("keys :", keys, type(keys))
+    # print("Data :", data, type(data))
+    #return keys, data
+    print "returning"
+    return ["Ganesh"], [25]
+
+'''
+if __name__ == "__main__":
+    x, y = read_data()
+    print("Keys: ", json.dumps(x))
+    print("Data: ", json.dumps(y))
+'''

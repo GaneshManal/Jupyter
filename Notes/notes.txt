@@ -1,0 +1,16 @@
+- Jupyter notebook is a way to run code interactively in web browser alongside visualization and markdown text to explain the process of whats going on.
+
+-  When we discuss IPython, we talk about two fundamental roles:
+1. Terminal IPython as the familiar REPL
+2. The IPython kernel that provides computation and communication with the frontend interfaces, like the notebook
+
+- Jupyter Notebook and its flexible interface extends the notebook beyond code to visualization, multimedia, collaboration, and more.
+
+
+- IPython provides a rich architecture for interactive computing with:
+1. A powerful interactive shell.
+2. A kernel for Jupyter.
+3. Support for interactive data visualization and use of GUI toolkits.
+4. Flexible, embeddable interpreters to load into your own projects.
+5. Easy to use, high performance tools for parallel computing.
+
