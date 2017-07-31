@@ -1,0 +1,464 @@
+batting_score,wickets,runs_conceded,catches,stumps,opposition,ground,date,match_result,result_margin,toss,batting_innings
+0,-,-,0,0,Pakistan,Gujranwala,18-Dec-89,lost,7 runs,won,2nd
+0,-,-,0,0,New_Zealand,Dunedin,1-Mar-90,lost,108 runs,won,2nd
+36,-,-,0,0,New_Zealand,Wellington,6-Mar-90,won,1 runs,won,1st
+10,-,-,1,0,Sri_Lanka,Sharjah,25-Apr-90,lost,3 wickets,lost,1st
+20,-,-,0,0,Pakistan,Sharjah,27-Apr-90,lost,26 runs,won,2nd
+19,-,-,0,0,England,Leeds,18-Jul-90,won,6 wickets,won,2nd
+31,0,10,0,0,England,Nottingham,20-Jul-90,won,5 wickets,won,2nd
+36,-,-,0,0,Sri_Lanka,Nagpur,1-Dec-90,won,19 runs,lost,1st
+53,2,39,2,0,Sri_Lanka,Pune,5-Dec-90,won,6 wickets,won,2nd
+30,-,-,0,0,Sri_Lanka,Margao,8-Dec-90,lost,7 wickets,won,1st
+DNB,0,15,0,0,Bangladesh,Chandigarh,25-Dec-90,won,9 wickets,lost,2nd
+4,-,-,0,0,Sri_Lanka,Cuttack,28-Dec-90,lost,36 runs,lost,2nd
+53,-,-,0,0,Sri_Lanka,Kolkata,4-Jan-91,won,7 wickets,won,2nd
+52*,-,-,0,0,Pakistan,Sharjah,18-Oct-91,won,60 runs,won,1st
+22,-,-,0,0,West_Indies,Sharjah,19-Oct-91,won,19 runs,lost,1st
+11*,4,34,0,0,West_Indies,Sharjah,22-Oct-91,won,7 wickets,won,2nd
+49,0,20,1,0,Pakistan,Sharjah,23-Oct-91,lost,4 runs,lost,2nd
+0,0,24,0,0,Pakistan,Sharjah,25-Oct-91,lost,72 runs,won,2nd
+62,1,27,0,0,South_Africa,Kolkata,10 No1991,won,3 wickets,won,2nd
+4,0,31,0,0,South_Africa,Gwalior,12 No1991,won,38 runs,lost,1st
+1,0,38,0,0,South_Africa,Delhi,14 No1991,lost,8 wickets,won,1st
+1,1,5,0,0,West_Indies,Perth,6-Dec-91,tied,-,lost,1st
+36,0,8,1,0,Australia,Perth,8-Dec-91,won,107 runs,won,1st
+57,-,-,1,0,Australia,Hobart,10-Dec-91,lost,8 wickets,won,1st
+48,0,10,0,0,West_Indies,Adelaide,14-Dec-91,won,10 runs,won,1st
+21,0,3,1,0,Australia,Adelaide,15-Dec-91,lost,6 wickets,won,1st
+77,0,27,0,0,West_Indies,Brisbane,11-Jan-92,lost,6 wickets,won,1st
+31,0,14,0,0,Australia,Sydney,14-Jan-92,lost,9 wickets,won,1st
+57*,0,38,0,0,West_Indies,Melbourne,16-Jan-92,won,5 wickets,lost,2nd
+4,1,29,0,0,Australia,Melbourne,18-Jan-92,lost,88 runs,lost,2nd
+69,0,18,1,0,Australia,Sydney,20-Jan-92,lost,6 runs,lost,2nd
+35,0,37,1,0,England,Perth,22-Feb-92,lost,9 runs,lost,2nd
+DNB,-,-,-,-,Sri_Lanka,Mackay,28-Feb-92,n/r,-,lost,1st
+11,0,29,0,0,Australia,Brisbane,1-Mar-92,lost,1 runs,lost,2nd
+54*,1,37,0,0,Pakistan,Sydney,4-Mar-92,won,43 runs,won,1st
+81,1,35,0,0,Zimbabwe,Hamilton,7-Mar-92,won,55 runs,won,1st
+4,0,20,1,0,West_Indies,Wellington,10-Mar-92,lost,5 wickets,won,1st
+84,0,2,0,0,New_Zealand,Dunedin,12-Mar-92,lost,4 wickets,lost,1st
+14,0,20,0,0,South_Africa,Adelaide,15-Mar-92,lost,6 wickets,lost,1st
+39,0,16,0,0,Zimbabwe,Harare,25-Oct-92,won,30 runs,lost,1st
+15,1,25,1,0,South_Africa,CapeTown,7-Dec-92,lost,6 wickets,won,1st
+10,0,18,0,0,South_Africa,PortElizabeth,9-Dec-92,lost,6 wickets,won,1st
+22,0,16,0,0,South_Africa,Centurion,11-Dec-92,won,4 wickets,won,2nd
+21,0,4,0,0,South_Africa,Johannesburg,13-Dec-92,lost,6 wickets,lost,1st
+32,0,27,0,0,South_Africa,Bloemfontein,15-Dec-92,lost,8 wickets,lost,1st
+23,-,-,0,0,South_Africa,Durban,17-Dec-92,lost,39 runs,won,2nd
+21,-,-,1,0,South_Africa,EastLondon,19-Dec-92,won,5 wickets,won,2nd
+82*,-,-,0,0,England,Jaipur,18-Jan-93,lost,4 wickets,lost,1st
+1,0,16,1,0,England,Chandigarh,21-Jan-93,won,5 wickets,won,2nd
+3,-,-,1,0,England,Bangalore,26-Feb-93,lost,48 runs,won,2nd
+24,-,-,0,0,England,Jamshedpur,1-Mar-93,lost,6 wickets,lost,1st
+5,-,-,0,0,England,Gwalior,4-Mar-93,won,3 wickets,won,2nd
+34,-,-,0,0,England,Gwalior,5-Mar-93,won,4 wickets,won,2nd
+3,1,6,0,0,Zimbabwe,Faridabad,19-Mar-93,won,67 runs,lost,1st
+8*,-,-,0,0,Zimbabwe,Guwahati,22-Mar-93,won,7 wickets,won,2nd
+DNB,0,30,0,0,Zimbabwe,Pune,25-Mar-93,won,8 wickets,won,2nd
+21,-,-,0,0,Sri_Lanka,Colombo(RPS),25-Jul-93,won,1 runs,lost,1st
+15,0,20,1,0,Sri_Lanka,Colombo(RPS),12-Aug-93,lost,8 runs,won,2nd
+25,0,15,0,0,Sri_Lanka,Moratuwa,14-Aug-93,lost,4 wickets,won,1st
+26*,1,27,1,0,Sri_Lanka,Kanpur,7 No1993,won,7 wickets,won,2nd
+2,0,11,0,0,West_Indies,Ahmedabad,16 No1993,lost,69 runs,lost,2nd
+24,1,48,0,0,Zimbabwe,Indore,18 No1993,tied,-,lost,1st
+3,-,-,0,0,South_Africa,Mohali,22 No1993,won,43 runs,lost,1st
+15,0,3,0,0,South_Africa,Kolkata,24 No1993,won,2 runs,won,1st
+28*,1,24,0,0,West_Indies,Kolkata,27 No1993,won,102 runs,lost,1st
+1,3,43,1,0,Sri_Lanka,Rajkot,15-Feb-94,won,8 runs,lost,1st
+11*,1,36,1,0,Sri_Lanka,Hyderabad(Deccan),18-Feb-94,won,7 wickets,won,2nd
+52,1,23,0,0,Sri_Lanka,Jalandhar,20-Feb-94,lost,4 wickets,lost,1st
+15,0,37,0,0,New_Zealand,Napier,25-Mar-94,lost,28 runs,won,2nd
+82,-,-,0,0,New_Zealand,Auckland,27-Mar-94,won,7 wickets,lost,2nd
+63,0,12,0,0,New_Zealand,Wellington,30-Mar-94,won,12 runs,lost,1st
+40,0,22,0,0,New_Zealand,Christchurch,2-Apr-94,lost,6 wickets,won,1st
+63,0,22,1,0,U.A.E.,Sharjah,13-Apr-94,won,71 runs,lost,1st
+73,0,34,0,0,Pakistan,Sharjah,15-Apr-94,lost,6 wickets,lost,1st
+6,0,39,1,0,Australia,Sharjah,19-Apr-94,won,7 wickets,lost,2nd
+24,0,45,0,0,Pakistan,Sharjah,22-Apr-94,lost,39 runs,won,2nd
+11*,-,-,-,-,Sri_Lanka,Colombo(RPS),4-Sep-94,n/r,-,lost,1st
+6,0,21,0,0,Sri_Lanka,Colombo(RPS),5-Sep-94,lost,7 wickets,lost,1st
+110,0,15,0,0,Australia,Colombo(RPS),9-Sep-94,won,31 runs,won,1st
+0,-,-,0,0,Sri_Lanka,Colombo(SSC),17-Sep-94,won,6 wickets,won,2nd
+0,0,32,0,0,West_Indies,Faridabad,17-Oct-94,lost,96 runs,lost,2nd
+0,-,-,1,0,West_Indies,Mumbai,20-Oct-94,won,8 runs,won,2nd
+8,3,36,1,0,West_Indies,Chennai,23-Oct-94,won,4 wickets,won,2nd
+115,0,27,0,0,New_Zealand,Vadodara,28-Oct-94,won,7 wickets,lost,2nd
+34,2,31,1,0,West_Indies,Kanpur,30-Oct-94,lost,46 runs,won,2nd
+62,2,29,0,0,New_Zealand,Delhi,3 No1994,won,107 runs,won,1st
+66,1,35,1,0,West_Indies,Kolkata,5 No1994,won,72 runs,lost,1st
+54,1,39,0,0,West_Indies,Visakhapatnam,7 No1994,won,4 runs,lost,1st
+88,0,20,0,0,West_Indies,Cuttack,9 No1994,won,8 wickets,lost,2nd
+105,0,31,0,0,West_Indies,Jaipur,11 No1994,won,5 runs,won,1st
+13,-,-,0,0,New_Zealand,Napier,16-Feb-95,lost,4 wickets,lost,1st
+37,0,43,0,0,South_Africa,Hamilton,18-Feb-95,lost,14 runs,lost,2nd
+47,1,33,1,0,Australia,Dunedin,22-Feb-95,won,5 wickets,lost,2nd
+48,-,-,0,0,Bangladesh,Sharjah,5-Apr-95,won,9 wickets,lost,2nd
+4,0,27,2,0,Pakistan,Sharjah,7-Apr-95,lost,97 runs,lost,2nd
+112*,-,-,1,0,Sri_Lanka,Sharjah,9-Apr-95,won,8 wickets,lost,2nd
+41,0,10,0,0,Sri_Lanka,Sharjah,14-Apr-95,won,8 wickets,won,2nd
+30,0,18,0,0,New_Zealand,Jamshedpur,15 No1995,lost,8 wickets,lost,1st
+39,1,15,1,0,New_Zealand,Amritsar,18 No1995,won,6 wickets,won,2nd
+7,2,49,1,0,New_Zealand,Pune,24 No1995,won,5 wickets,won,2nd
+65,0,54,0,0,New_Zealand,Nagpur,26 No1995,lost,99 runs,won,2nd
+1,-,-,0,0,New_Zealand,Mumbai(BS),29 No1995,won,6 wickets,won,2nd
+127*,0,26,0,0,Kenya,Cuttack,18-Feb-96,won,7 wickets,won,2nd
+70,-,-,0,0,West_Indies,Gwalior,21-Feb-96,won,5 wickets,lost,2nd
+90,-,-,0,0,Australia,Mumbai,27-Feb-96,lost,16 runs,lost,2nd
+137,0,41,0,0,Sri_Lanka,Delhi,2-Mar-96,lost,6 wickets,lost,1st
+3,0,23,1,0,Zimbabwe,Kanpur,6-Mar-96,won,40 runs,lost,1st
+31,0,25,0,0,Pakistan,Bangalore,9-Mar-96,won,39 runs,won,1st
+65,2,34,1,0,Sri_Lanka,Kolkata,13-Mar-96,lost,,won,2nd
+28,0,19,0,0,Sri_Lanka,Singapore,3-Apr-96,won,12 runs,won,1st
+100,0,18,0,0,Pakistan,Singapore,5-Apr-96,lost,8 wickets,lost,1st
+1,1,46,0,0,Pakistan,Sharjah,12-Apr-96,lost,38 runs,won,2nd
+2,0,40,1,0,South_Africa,Sharjah,14-Apr-96,lost,80 runs,lost,2nd
+118,2,40,0,0,Pakistan,Sharjah,15-Apr-96,won,28 runs,won,1st
+17,-,-,0,0,South_Africa,Sharjah,17-Apr-96,lost,5 wickets,won,1st
+57,0,51,0,0,South_Africa,Sharjah,19-Apr-96,lost,38 runs,lost,2nd
+30,0,44,1,0,England,The_Oval,23-May-96,n/r,-,lost,2nd
+6,0,15,1,0,England,Leeds,25-May-96,lost,6 wickets,lost,1st
+1,0,22,0,0,England,Manchester,26-May-96,lost,4 wickets,won,1st
+110,1,29,0,0,Sri_Lanka,Colombo(RPS),28-Aug-96,lost,9 wickets,won,1st
+40,0,20,1,0,Zimbabwe,Colombo(SSC),1-Sep-96,won,7 wickets,won,2nd
+7,0,38,1,0,Australia,Colombo(SSC),6-Sep-96,lost,3 wickets,lost,1st
+89*,0,12,1,0,Pakistan,Toronto,16-Sep-96,won,8 wickets,won,2nd
+20,1,35,0,0,Pakistan,Toronto,17-Sep-96,lost,2 wickets,lost,1st
+2,0,17,2,0,Pakistan,Toronto,18-Sep-96,won,55 runs,won,1st
+3,1,22,0,0,Pakistan,Toronto,21-Sep-96,lost,97 runs,won,2nd
+23,-,-,0,0,Pakistan,Toronto,23-Sep-96,lost,52 runs,lost,2nd
+11,0,28,0,0,South_Africa,Hyderabad(Deccan),17-Oct-96,lost,47 runs,lost,2nd
+88,1,45,2,0,Australia,Bangalore,21-Oct-96,won,2 wickets,lost,2nd
+64,0,22,0,0,South_Africa,Jaipur,23-Oct-96,lost,27 runs,won,2nd
+28,0,13,1,0,South_Africa,Rajkot,29-Oct-96,lost,5 wickets,won,1st
+62,0,0,0,0,Australia,Mohali,3 No1996,won,5 runs,lost,1st
+67,-,-,0,0,South_Africa,Mumbai,6 No1996,won,35 runs,won,1st
+114,-,-,0,0,South_Africa,Mumbai,14-Dec-96,won,74 runs,won,1st
+0,-,-,1,0,South_Africa,Bloemfontein,23-Jan-97,lost,39 runs,lost,2nd
+6,0,22,0,0,Zimbabwe,Paarl,27-Jan-97,tied,-,lost,2nd
+1,-,-,0,0,South_Africa,PortElizabeth,2-Feb-97,lost,6 wickets,won,1st
+14,0,17,0,0,South_Africa,EastLondon,4-Feb-97,lost,6 wickets,won,1st
+41,0,11,0,0,Zimbabwe,Centurion,7-Feb-97,lost,3 wickets,won,1st
+104,0,16,0,0,Zimbabwe,Benoni,9-Feb-97,won,6 wickets,won,2nd
+32,-,-,0,0,South_Africa,Durban,12-Feb-97,n/r,-,won,1st
+45,1,19,0,0,South_Africa,Durban,13-Feb-97,lost,17 runs,lost,2nd
+13,-,-,0,0,Zimbabwe,Bulawayo,15-Feb-97,lost,8 wickets,lost,1st
+44,0,11,0,0,West_Indies,PortOfSpain,26-Apr-97,lost,8 wickets,won,1st
+65*,0,4,0,0,West_Indies,PortOfSpain,27-Apr-97,won,10 wickets,won,2nd
+9,1,13,0,0,West_Indies,Kingstown,30-Apr-97,lost,18 runs,won,2nd
+1,0,22,0,0,West_Indies,Bridgetown,3-May-97,lost,10 wickets,lost,1st
+117,0,35,0,0,New_Zealand,Bangalore,14-May-97,won,8 wickets,lost,2nd
+2,0,13,1,0,Sri_Lanka,Mumbai,17-May-97,lost,5 wickets,won,1st
+4,2,61,0,0,Pakistan,Chennai,21-May-97,lost,35 runs,lost,2nd
+21,0,6,0,0,Sri_Lanka,Colombo(RPS),18-Jul-97,lost,6 wickets,lost,1st
+TDNB,-,-,0,0,Pakistan,Colombo(SSC),20-Jul-97,n/r,-,won,2nd
+28,1,18,0,0,Bangladesh,Colombo(SSC),24-Jul-97,won,9 wickets,won,2nd
+53,0,20,0,0,Sri_Lanka,Colombo(RPS),26-Jul-97,lost,8 wickets,won,1st
+27,0,28,0,0,Sri_Lanka,Colombo(RPS),17-Aug-97,lost,2 runs,won,2nd
+6,-,-,1,0,Sri_Lanka,Colombo(RPS),20-Aug-97,lost,7 wickets,lost,1st
+27,-,-,0,0,Sri_Lanka,Colombo(SSC),23-Aug-97,n/r,-,lost,1st
+39,1,22,2,0,Sri_Lanka,Colombo(SSC),24-Aug-97,lost,9 runs,won,2nd
+17,0,13,0,0,Pakistan,Toronto,13-Sep-97,won,20 runs,lost,1st
+25*,-,-,0,0,Pakistan,Toronto,14-Sep-97,won,7 wickets,lost,2nd
+TDNB,0,17,0,0,Pakistan,Toronto,17-Sep-97,n/r,-,won,2nd
+0,-,-,2,0,Pakistan,Toronto,18-Sep-97,won,34 runs,lost,1st
+6,-,-,1,0,Pakistan,Toronto,20-Sep-97,won,7 wickets,won,2nd
+51,-,-,2,0,Pakistan,Toronto,21-Sep-97,lost,5 wickets,lost,1st
+2,0,11,2,0,Pakistan,Hyderabad(Sind),28-Sep-97,lost,5 wickets,won,1st
+21,0,7,0,0,Pakistan,Karachi,30-Sep-97,won,4 wickets,lost,2nd
+7,-,-,1,0,Pakistan,Lahore,2-Oct-97,lost,9 wickets,lost,1st
+91,0,24,1,0,England,Sharjah,11-Dec-97,lost,7 runs,won,2nd
+3,-,-,0,0,Pakistan,Sharjah,14-Dec-97,lost,4 wickets,won,1st
+1,0,17,0,0,West_Indies,Sharjah,16-Dec-97,lost,41 runs,won,2nd
+82*,-,-,0,0,Sri_Lanka,Guwahati,22-Dec-97,won,7 wickets,won,2nd
+TDNB,-,-,0,0,Sri_Lanka,Indore,25-Dec-97,n/r,-,lost,2nd
+6,0,7,0,0,Sri_Lanka,Margao,28-Dec-97,lost,5 wickets,won,1st
+54,0,13,2,0,Bangladesh,Dhaka,10-Jan-98,won,4 wickets,won,2nd
+67,1,24,4,0,Pakistan,Dhaka,11-Jan-98,won,18 runs,lost,1st
+95,3,45,0,0,Pakistan,Dhaka,14-Jan-98,won,8 wickets,lost,2nd
+1,0,17,0,0,Pakistan,Dhaka,16-Jan-98,lost,6 wickets,won,1st
+41,1,49,0,0,Pakistan,Dhaka,18-Jan-98,won,3 wickets,won,2nd
+8,5,32,1,0,Australia,Kochi,1-Apr-98,won,41 runs,won,1st
+5,1,36,0,0,Zimbabwe,Vadodara,5-Apr-98,won,13 runs,lost,1st
+100,0,19,0,0,Australia,Kanpur,7-Apr-98,won,6 wickets,lost,2nd
+1,0,20,0,0,Zimbabwe,Cuttack,9-Apr-98,won,32 runs,lost,1st
+15,0,13,1,0,Australia,Delhi,14-Apr-98,lost,4 wickets,won,1st
+40,0,13,0,0,New_Zealand,Sharjah,17-Apr-98,won,15 runs,won,1st
+80,0,21,0,0,Australia,Sharjah,19-Apr-98,lost,58 runs,lost,2nd
+38,1,28,0,0,New_Zealand,Sharjah,20-Apr-98,lost,4 wickets,won,1st
+143,1,27,0,0,Australia,Sharjah,22-Apr-98,lost,26 runs,lost,2nd
+134,0,12,0,0,Australia,Sharjah,24-Apr-98,won,6 wickets,won,2nd
+33,2,8,0,0,Bangladesh,Mumbai,25-May-98,won,5 wickets,lost,2nd
+18,0,34,0,0,Kenya,Gwalior,28-May-98,lost,69 runs,lost,2nd
+100*,0,4,0,0,Kenya,Kolkata,31-May-98,won,9 wickets,lost,2nd
+65,0,17,0,0,Sri_Lanka,Colombo(RPS),19-Jun-98,won,8 wickets,lost,2nd
+53,1,32,0,0,New_Zealand,Colombo(RPS),23-Jun-98,n/r,-,won,2nd
+17,-,-,1,0,Sri_Lanka,Colombo(SSC),1-Jul-98,lost,8 runs,won,2nd
+TDNB,-,-,1,0,New_Zealand,Colombo(SSC),3-Jul-98,n/r,-,lost,2nd
+128,0,13,0,0,Sri_Lanka,Colombo(RPS),7-Jul-98,won,6 runs,won,1st
+77,-,-,0,0,Pakistan,Toronto,20-Sep-98,lost,5 wickets,won,1st
+127*,-,-,1,0,Zimbabwe,Bulawayo,26-Sep-98,won,8 wickets,won,2nd
+29,0,11,0,0,Zimbabwe,Bulawayo,27-Sep-98,won,8 wickets,won,2nd
+2,0,30,0,0,Zimbabwe,Harare,30-Sep-98,lost,37 runs,won,2nd
+141,4,38,1,0,Australia,Dhaka,28-Oct-98,won,44 runs,lost,1st
+8,2,29,1,0,West_Indies,Dhaka,31-Oct-98,lost,6 wickets,won,1st
+3,0,17,0,0,Sri_Lanka,Sharjah,6 No1998,won,3 wickets,won,2nd
+118*,0,4,0,0,Zimbabwe,Sharjah,8 No1998,won,7 wickets,won,2nd
+18,-,-,0,0,Sri_Lanka,Sharjah,9 No1998,won,81 runs,lost,1st
+11,1,14,0,0,Zimbabwe,Sharjah,11 No1998,lost,13 runs,won,2nd
+124*,1,16,1,0,Zimbabwe,Sharjah,13 No1998,won,10 wickets,won,2nd
+0,1,34,0,0,New_Zealand,Taupo,9-Jan-99,lost,5 wickets,won,1st
+23,3,34,0,0,New_Zealand,Napier,12-Jan-99,won,2 wickets,won,2nd
+45,-,-,0,0,New_Zealand,Wellington,14-Jan-99,n/r,-,lost,1st
+5,1,29,0,0,New_Zealand,Auckland,16-Jan-99,won,5 wickets,won,2nd
+28,0,22,0,0,South_Africa,Hove,15-May-99,lost,4 wickets,won,1st
+140*,0,23,0,0,Kenya,Bristol,23-May-99,won,94 runs,lost,1st
+2,-,-,1,0,Sri_Lanka,Taunton,26-May-99,won,157 runs,lost,1st
+22,-,-,0,0,England,Birmingham,29-May-99,won,63 runs,lost,1st
+0,0,4,0,0,Australia,The_Oval,4-Jun-99,lost,77 runs,won,2nd
+45,-,-,1,0,Pakistan,Manchester,8-Jun-99,won,47 runs,won,1st
+16,0,14,0,0,New_Zealand,Nottingham,12-Jun-99,lost,5 wickets,won,1st
+14,-,-,0,0,Australia,Galle,23-Aug-99,lost,8 wickets,won,1st
+37,-,-,0,0,Sri_Lanka,Colombo(RPS),25-Aug-99,lost,7 wickets,won,1st
+120,-,-,0,0,Sri_Lanka,Colombo(SSC),29-Aug-99,won,23 runs,lost,1st
+85,-,-,0,0,Zimbabwe,Singapore,4-Sep-99,won,115 runs,lost,1st
+40,-,-,-,-,West_Indies,Singapore,7-Sep-99,n/r,-,won,1st
+0,-,-,0,0,West_Indies,Singapore,8-Sep-99,lost,4 wickets,lost,1st
+32,0,18,1,0,New_Zealand,Rajkot,5 No1999,lost,43 runs,lost,2nd
+186*,-,-,1,0,New_Zealand,Hyderabad(Deccan),8 No1999,won,174 runs,won,1st
+1,-,-,0,0,New_Zealand,Gwalior,11 No1999,won,14 runs,won,1st
+2,-,-,0,0,New_Zealand,Guwahati,14 No1999,lost,48 runs,won,2nd
+0,-,-,0,0,New_Zealand,Delhi,17 No1999,won,7 wickets,lost,2nd
+13,-,-,0,0,Pakistan,Brisbane,10-Jan-00,lost,2 wickets,won,1st
+12,0,23,2,0,Australia,Melbourne,12-Jan-00,lost,28 runs,lost,2nd
+1,-,-,0,0,Australia,Sydney,14-Jan-00,lost,5 wickets,won,1st
+93,0,6,1,0,Pakistan,Hobart,21-Jan-00,lost,32 runs,won,2nd
+41,-,-,1,0,Pakistan,Adelaide,25-Jan-00,won,48 runs,won,1st
+18,1,48,0,0,Australia,Adelaide,26-Jan-00,lost,152 runs,lost,2nd
+17,-,-,2,0,Pakistan,Perth,28-Jan-00,lost,104 runs,lost,2nd
+3,-,-,1,0,Australia,Perth,30-Jan-00,lost,4 wickets,won,1st
+26,0,44,0,0,South_Africa,Kochi,9-Mar-00,won,3 wickets,lost,2nd
+21,1,39,0,0,South_Africa,Jamshedpur,12-Mar-00,won,6 wickets,lost,2nd
+12,4,56,1,0,South_Africa,Faridabad,15-Mar-00,lost,2 wickets,lost,1st
+122,0,43,0,0,South_Africa,Vadodara,17-Mar-00,won,4 wickets,lost,2nd
+93,1,31,0,0,South_Africa,Nagpur,19-Mar-00,lost,10 runs,won,2nd
+5,0,32,0,0,South_Africa,Sharjah,22-Mar-00,lost,10 wickets,won,1st
+11,0,21,0,0,Pakistan,Sharjah,23-Mar-00,won,5 wickets,lost,2nd
+10,0,11,0,0,Pakistan,Sharjah,26-Mar-00,lost,98 runs,lost,2nd
+39,0,3,0,0,South_Africa,Sharjah,27-Mar-00,lost,6 wickets,won,1st
+36,2,24,0,0,Bangladesh,Dhaka,30-May-00,won,8 wickets,lost,2nd
+93,2,44,0,0,Sri_Lanka,Dhaka,1-Jun-00,lost,71 runs,lost,2nd
+25,0,41,1,0,Pakistan,Dhaka,3-Jun-00,lost,44 runs,lost,2nd
+25,0,25,0,0,Kenya,Nairobi(Gym),3-Oct-00,won,8 wickets,won,2nd
+38,1,31,0,0,Australia,Nairobi(Gym),7-Oct-00,won,20 runs,lost,1st
+39,2,32,1,0,South_Africa,Nairobi(Gym),13-Oct-00,won,95 runs,won,1st
+69,1,38,0,0,New_Zealand,Nairobi(Gym),15-Oct-00,lost,4 wickets,lost,1st
+101,0,22,0,0,Sri_Lanka,Sharjah,20-Oct-00,lost,5 wickets,won,1st
+8,1,46,0,0,Zimbabwe,Sharjah,22-Oct-00,won,13 runs,lost,1st
+4,0,16,0,0,Zimbabwe,Sharjah,26-Oct-00,won,3 wickets,won,2nd
+61,0,21,0,0,Sri_Lanka,Sharjah,27-Oct-00,lost,68 runs,won,2nd
+5,1,28,0,0,Sri_Lanka,Sharjah,29-Oct-00,lost,245 runs,lost,2nd
+44,1,22,1,0,Zimbabwe,Cuttack,2-Dec-00,won,3 wickets,lost,2nd
+8,1,53,0,0,Zimbabwe,Ahmedabad,5-Dec-00,won,61 runs,won,1st
+146,1,35,0,0,Zimbabwe,Jodhpur,8-Dec-00,lost,1 wickets,won,1st
+62,-,-,0,0,Zimbabwe,Kanpur,11-Dec-00,won,9 wickets,lost,2nd
+27,-,-,0,0,Zimbabwe,Rajkot,14-Dec-00,won,39 runs,lost,1st
+35,-,-,0,0,Australia,Bangalore,25-Mar-01,won,60 runs,won,1st
+32,0,59,0,0,Australia,Pune,28-Mar-01,lost,8 wickets,won,1st
+139,-,-,1,0,Australia,Indore,31-Mar-01,won,118 runs,lost,1st
+62,0,12,1,0,Australia,Visakhapatnam,3-Apr-01,lost,93 runs,lost,2nd
+12,3,35,0,0,Australia,Margao,6-Apr-01,lost,4 wickets,won,1st
+70*,-,-,0,0,Zimbabwe,Harare,24-Jun-01,won,9 wickets,won,2nd
+9,-,-,0,0,Zimbabwe,Bulawayo,27-Jun-01,won,4 wickets,won,2nd
+81*,0,14,0,0,West_Indies,Bulawayo,30-Jun-01,won,6 wickets,won,2nd
+122*,0,11,0,0,West_Indies,Harare,4-Jul-01,won,6 wickets,won,2nd
+0,-,-,0,0,West_Indies,Harare,7-Jul-01,lost,16 runs,won,2nd
+101,0,51,0,0,South_Africa,Johannesburg,5-Oct-01,lost,6 wickets,lost,1st
+38,0,21,0,0,South_Africa,Centurion,10-Oct-01,won,41 runs,won,1st
+DNB,-,-,0,0,Kenya,Bloemfontein,12-Oct-01,won,10 wickets,lost,2nd
+3,-,-,1,0,Kenya,PortElizabeth,17-Oct-01,lost,70 runs,lost,2nd
+37,-,-,0,0,South_Africa,EastLondon,19-Oct-01,lost,46 runs,lost,2nd
+146,-,-,0,0,Kenya,Paarl,24-Oct-01,won,186 runs,won,1st
+17,2,27,0,0,South_Africa,Durban,26-Oct-01,lost,6 wickets,lost,1st
+36,0,23,1,0,England,Kolkata,19-Jan-02,won,22 runs,won,1st
+45,0,35,0,0,England,Cuttack,22-Jan-02,lost,16 runs,won,2nd
+68,0,8,1,0,England,Chennai,25-Jan-02,won,4 wickets,lost,2nd
+87*,0,17,1,0,England,Kanpur,28-Jan-02,won,8 wickets,lost,2nd
+18,1,45,0,0,England,Delhi,31-Jan-02,lost,2 runs,won,2nd
+12,1,30,0,0,England,Mumbai,3-Feb-02,lost,5 runs,lost,2nd
+34*,-,-,0,0,West_Indies,Bridgetown,29-May-02,won,7 wickets,won,2nd
+65,1,20,0,0,West_Indies,PortOfSpain,2-Jun-02,won,56 runs,won,1st
+1,-,-,0,0,England,Lord's,29-Jun-02,won,6 wickets,lost,2nd
+49,-,-,0,0,Sri_Lanka,The_Oval,30-Jun-02,won,4 wickets,lost,2nd
+105*,-,-,0,0,England,Chester-le-Street,4-Jul-02,n/r,-,won,1st
+19,0,18,0,0,Sri_Lanka,Birmingham,6-Jul-02,won,4 wickets,won,2nd
+36,0,9,0,0,England,The_Oval,9-Jul-02,lost,64 runs,won,2nd
+113,-,-,0,0,Sri_Lanka,Bristol,11-Jul-02,won,63 runs,won,1st
+14,-,-,0,0,England,Lord's,13-Jul-02,won,2 wickets,lost,2nd
+7,2,41,0,0,Zimbabwe,Colombo(RPS),14-Sep-02,won,14 runs,won,1st
+9*,1,13,0,0,England,Colombo(RPS),22-Sep-02,won,8 wickets,lost,2nd
+16,0,32,0,0,South_Africa,Colombo(RPS),25-Sep-02,won,10 runs,won,1st
+DNB,1,36,1,0,Sri_Lanka,Colombo(RPS),29-Sep-02,n/r,-,lost,2nd
+7*,0,36,0,0,Sri_Lanka,Colombo(RPS),30-Sep-02,n/r,-,lost,2nd
+0,-,-,0,0,New_Zealand,Wellington,8-Jan-03,won,2 wickets,lost,2nd
+1,-,-,0,0,New_Zealand,Auckland,11-Jan-03,won,1 wickets,won,2nd
+1,-,-,0,0,New_Zealand,Hamilton,14-Jan-03,lost,6 wickets,lost,1st
+52,0,9,0,0,Netherlands,Paarl,12-Feb-03,won,68 runs,won,1st
+36,-,-,0,0,Australia,Centurion,15-Feb-03,lost,9 wickets,won,1st
+81,-,-,0,0,Zimbabwe,Harare,19-Feb-03,won,83 runs,lost,1st
+152,-,-,0,0,Namibia,Pietermaritzburg,23-Feb-03,won,181 runs,lost,1st
+50,-,-,1,0,England,Durban,26-Feb-03,won,82 runs,won,1st
+98,-,-,0,0,Pakistan,Centurion,1-Mar-03,won,6 wickets,lost,2nd
+5,-,-,1,0,Kenya,CapeTown,7-Mar-03,won,6 wickets,lost,2nd
+97,-,-,1,0,Sri_Lanka,Johannesburg,10-Mar-03,won,183 runs,lost,1st
+15,0,20,1,0,New_Zealand,Centurion,14-Mar-03,won,7 wickets,won,2nd
+83,2,28,0,0,Kenya,Durban,20-Mar-03,won,91 runs,won,1st
+4,0,20,0,0,Australia,Johannesburg,23-Mar-03,lost,125 runs,won,2nd
+48*,-,-,-,-,New_Zealand,Chennai,23-Oct-03,n/r,-,won,1st
+100,1,39,0,0,Australia,Gwalior,26-Oct-03,won,37 runs,won,1st
+68,0,21,0,0,Australia,Mumbai,1 No2003,lost,77 runs,lost,2nd
+14,0,25,0,0,New_Zealand,Cuttack,6 No2003,lost,4 wickets,won,1st
+89,-,-,0,0,Australia,Bangalore,12 No2003,lost,61 runs,lost,2nd
+102,0,40,0,0,New_Zealand,Hyderabad(Deccan),15 No2003,won,145 runs,won,1st
+45,-,-,0,0,Australia,Kolkata,18 No2003,lost,37 runs,lost,2nd
+63,-,-,1,0,Australia,Melbourne,9-Jan-04,lost,18 runs,lost,2nd
+44,-,-,0,0,Zimbabwe,Hobart,14-Jan-04,won,7 wickets,lost,2nd
+86,-,-,0,0,Australia,Brisbane,18-Jan-04,won,19 runs,won,1st
+5,-,-,0,0,Australia,Perth,1-Feb-04,lost,5 wickets,won,1st
+3,-,-,0,0,Zimbabwe,Perth,3-Feb-04,won,4 wickets,lost,2nd
+8,-,-,1,0,Australia,Melbourne,6-Feb-04,lost,7 wickets,won,1st
+27,1,60,0,0,Australia,Sydney,8-Feb-04,lost,208 runs,lost,2nd
+28,0,34,0,0,Pakistan,Karachi,13-Mar-04,won,5 runs,lost,1st
+141,0,45,0,0,Pakistan,Rawalpindi,16-Mar-04,lost,12 runs,lost,2nd
+0,1,31,0,0,Pakistan,Peshawar,19-Mar-04,lost,4 wickets,lost,1st
+7,1,48,0,0,Pakistan,Lahore,21-Mar-04,won,5 wickets,lost,2nd
+37,0,27,1,0,Pakistan,Lahore,24-Mar-04,won,40 runs,lost,1st
+18,3,21,0,0,U.A.E.,Dambulla,16-Jul-04,won,116 runs,won,1st
+11,-,-,0,0,Sri_Lanka,Dambulla,18-Jul-04,lost,12 runs,lost,2nd
+82*,3,35,0,0,Bangladesh,Colombo(SSC),21-Jul-04,won,8 wickets,won,2nd
+78,3,28,0,0,Pakistan,Colombo(RPS),25-Jul-04,lost,59 runs,lost,2nd
+18,1,23,1,0,Sri_Lanka,Colombo(RPS),27-Jul-04,won,4 runs,won,1st
+74,2,40,0,0,Sri_Lanka,Colombo(RPS),1-Aug-04,lost,25 runs,lost,2nd
+16,0,15,0,0,Pakistan,Kolkata,13 No2004,lost,6 wickets,won,1st
+19,-,-,0,0,Bangladesh,Chittagong,23-Dec-04,won,11 runs,lost,1st
+47,4,54,0,0,Bangladesh,Dhaka,27-Dec-04,won,91 runs,won,1st
+4,5,50,1,0,Pakistan,Kochi,2-Apr-05,won,87 runs,won,1st
+2,0,44,0,0,Pakistan,Visakhapatnam,5-Apr-05,won,58 runs,won,1st
+6,0,25,1,0,Pakistan,Jamshedpur,9-Apr-05,lost,106 runs,lost,2nd
+123,1,36,1,0,Pakistan,Ahmedabad,12-Apr-05,lost,3 wickets,won,1st
+1,1,20,0,0,Pakistan,Kanpur,15-Apr-05,lost,5 wickets,won,1st
+9,0,24,0,0,Pakistan,Delhi,17-Apr-05,lost,159 runs,lost,2nd
+93,-,-,0,0,Sri_Lanka,Nagpur,25-Oct-05,won,152 runs,won,1st
+67*,-,-,1,0,Sri_Lanka,Mohali,28-Oct-05,won,8 wickets,won,2nd
+2,0,10,0,0,Sri_Lanka,Jaipur,31-Oct-05,won,6 wickets,lost,2nd
+11,-,-,1,0,Sri_Lanka,Pune,3 No2005,won,4 wickets,won,2nd
+19,-,-,1,0,Sri_Lanka,Rajkot,9 No2005,won,7 wickets,won,2nd
+39,-,-,0,0,Sri_Lanka,Vadodara,12 No2005,won,5 wickets,lost,2nd
+2,1,43,0,0,South_Africa,Hyderabad(Deccan),16 No2005,lost,5 wickets,lost,1st
+2,-,-,0,0,South_Africa,Bangalore,19 No2005,won,6 wickets,won,2nd
+2,-,-,0,0,South_Africa,Kolkata,25 No2005,lost,10 wickets,lost,1st
+30,-,-,0,0,South_Africa,Mumbai,28 No2005,won,5 wickets,won,2nd
+100,-,-,0,0,Pakistan,Peshawar,6-Feb-06,lost,7 runs,lost,1st
+42,0,45,0,0,Pakistan,Rawalpindi,11-Feb-06,won,7 wickets,lost,2nd
+95,1,52,0,0,Pakistan,Lahore,13-Feb-06,won,5 wickets,won,2nd
+0,1,27,0,0,Pakistan,Multan,16-Feb-06,won,5 wickets,won,2nd
+2*,-,-,-,-,Sri_Lanka,Colombo(SSC),18-Aug-06,n/r,-,won,1st
+141*,-,-,0,0,West_Indies,KualaLumpur,14-Sep-06,lost,29 runs,won,1st
+12,-,-,1,0,Australia,KualaLumpur,16-Sep-06,n/r,-,lost,2nd
+65,-,-,0,0,West_Indies,KualaLumpur,20-Sep-06,won,16 runs,won,1st
+4,-,-,0,0,Australia,KualaLumpur,22-Sep-06,lost,18 runs,lost,2nd
+35,-,-,1,0,England,Jaipur,15-Oct-06,won,4 wickets,won,2nd
+29,-,-,0,0,West_Indies,Ahmedabad,26-Oct-06,lost,3 wickets,lost,1st
+10,-,-,1,0,Australia,Mohali,29-Oct-06,lost,6 wickets,won,1st
+35,0,33,1,0,South_Africa,Durban,22 No2006,lost,157 runs,lost,2nd
+2,0,13,2,0,South_Africa,CapeTown,26 No2006,lost,106 runs,lost,2nd
+1,1,46,0,0,South_Africa,PortElizabeth,29 No2006,lost,80 runs,lost,2nd
+55,-,-,0,0,South_Africa,Centurion,3-Dec-06,lost,9 wickets,lost,1st
+31,1,54,0,0,West_Indies,Nagpur,21-Jan-07,won,14 runs,lost,1st
+0,2,25,0,0,West_Indies,Cuttack,24-Jan-07,won,20 runs,won,1st
+60,0,33,0,0,West_Indies,Chennai,27-Jan-07,lost,3 wickets,lost,1st
+100*,-,-,0,0,West_Indies,Vadodara,31-Jan-07,won,160 runs,lost,1st
+TDNB,-,-,0,0,Sri_Lanka,Kolkata,8-Feb-07,n/r,-,won,2nd
+54,1,41,1,0,Sri_Lanka,Rajkot,11-Feb-07,lost,5 runs,won,2nd
+1,0,33,1,0,Sri_Lanka,Margao,14-Feb-07,won,5 wickets,lost,2nd
+7,0,8,0,0,Bangladesh,PortOfSpain,17-Mar-07,lost,5 wickets,won,1st
+57*,1,1,0,0,Bermuda,PortOfSpain,19-Mar-07,won,257 runs,lost,1st
+0,1,40,0,0,Sri_Lanka,PortOfSpain,23-Mar-07,lost,69 runs,won,2nd
+4,1,24,0,0,Ireland,Belfast,23-Jun-07,won,9 wickets,won,2nd
+99,-,-,1,0,South_Africa,Belfast,26-Jun-07,lost,4 wickets,lost,1st
+93,0,10,0,0,South_Africa,Belfast,29-Jun-07,won,6 wickets,won,2nd
+8,2,10,0,0,South_Africa,Belfast,1-Jul-07,won,6 wickets,won,2nd
+17,0,29,0,0,England,Southampton,21-Aug-07,lost,104 runs,won,2nd
+99,-,-,0,0,England,Bristol,24-Aug-07,won,9 runs,won,1st
+8,-,-,0,0,England,Birmingham,27-Aug-07,lost,42 runs,won,2nd
+55,0,4,0,0,England,Manchester,30-Aug-07,lost,3 wickets,won,1st
+71,0,35,0,0,England,Leeds,2-Sep-07,won,38 runs,lost,1st
+94,0,12,0,0,England,The_Oval,5-Sep-07,won,2 wickets,lost,2nd
+30,-,-,0,0,England,Lord's,8-Sep-07,lost,7 wickets,won,1st
+0,-,-,1,0,Australia,Bangalore,29-Sep-07,n/r,-,lost,2nd
+16,0,22,1,0,Australia,Kochi,2-Oct-07,lost,84 runs,won,2nd
+43,0,22,0,0,Australia,Hyderabad(Deccan),5-Oct-07,lost,47 runs,lost,2nd
+79,-,-,0,0,Australia,Chandigarh,8-Oct-07,won,8 runs,won,1st
+47,0,11,0,0,Australia,Vadodara,11-Oct-07,lost,9 wickets,won,1st
+72,0,20,1,0,Australia,Nagpur,14-Oct-07,lost,18 runs,lost,2nd
+21,-,-,1,0,Australia,Mumbai,17-Oct-07,won,2 wickets,lost,2nd
+4,2,32,0,0,Pakistan,Guwahati,5 No2007,won,5 wickets,lost,2nd
+99,0,11,0,0,Pakistan,Mohali,8 No2007,lost,4 wickets,won,1st
+29,0,11,0,0,Pakistan,Kanpur,11 No2007,won,46 runs,lost,1st
+97,-,-,0,0,Pakistan,Gwalior,15 No2007,won,6 wickets,lost,2nd
+30,-,-,0,0,Pakistan,Jaipur,18 No2007,lost,31 runs,won,2nd
+10,-,-,0,0,Australia,Brisbane,3-Feb-08,n/r,-,won,1st
+35,-,-,-,-,Sri_Lanka,Brisbane,5-Feb-08,n/r,-,won,1st
+44,0,6,2,0,Australia,Melbourne,10-Feb-08,won,5 wickets,lost,2nd
+32,0,15,0,0,Sri_Lanka,Canberra,12-Feb-08,lost,8 wickets,lost,1st
+5,-,-,0,0,Australia,Adelaide,17-Feb-08,lost,50 runs,lost,2nd
+0,-,-,0,0,Sri_Lanka,Adelaide,19-Feb-08,won,2 wickets,lost,2nd
+2,-,-,0,0,Australia,Sydney,24-Feb-08,lost,18 runs,lost,2nd
+63,-,-,0,0,Sri_Lanka,Hobart,26-Feb-08,won,7 wickets,won,2nd
+117*,-,-,0,0,Australia,Sydney,2-Mar-08,won,6 wickets,lost,2nd
+91,-,-,0,0,Australia,Brisbane,4-Mar-08,won,9 runs,won,1st
+11,-,-,2,0,England,Bangalore,23 No2008,won,19 runs,lost,1st
+50,-,-,2,0,England,Cuttack,26 No2008,won,6 wickets,won,2nd
+5,-,-,0,0,Sri_Lanka,Dambulla,28-Jan-09,won,6 wickets,won,2nd
+6,-,-,1,0,Sri_Lanka,Colombo(RPS),31-Jan-09,won,15 runs,won,1st
+7,0,11,1,0,Sri_Lanka,Colombo(RPS),3-Feb-09,won,147 runs,won,1st
+20,-,-,1,0,New_Zealand,Napier,3-Mar-09,won,53 runs,won,1st
+61,-,-,-,-,New_Zealand,Wellington,6-Mar-09,n/r,-,won,1st
+163*,-,-,0,0,New_Zealand,Christchurch,8-Mar-09,won,58 runs,lost,1st
+46,-,-,0,0,New_Zealand,Colombo(RPS),11-Sep-09,won,6 wickets,lost,2nd
+27,-,-,0,0,Sri_Lanka,Colombo(RPS),12-Sep-09,lost,139 runs,lost,2nd
+138,-,-,0,0,Sri_Lanka,Colombo(RPS),14-Sep-09,won,46 runs,won,1st
+8,-,-,0,0,Pakistan,Centurion,26-Sep-09,lost,54 runs,lost,2nd
+TDNB,-,-,1,0,Australia,Centurion,28-Sep-09,n/r,-,lost,2nd
+14,-,-,0,0,Australia,Vadodara,25-Oct-09,lost,4 runs,lost,2nd
+4,-,-,1,0,Australia,Nagpur,28-Oct-09,won,99 runs,lost,1st
+32,-,-,0,0,Australia,Delhi,31-Oct-09,won,6 wickets,lost,2nd
+40,-,-,0,0,Australia,Mohali,2 No2009,lost,24 runs,won,2nd
+175,-,-,1,0,Australia,Hyderabad(Deccan),5 No2009,lost,3 runs,lost,2nd
+10,0,11,0,0,Australia,Guwahati,8 No2009,lost,6 wickets,won,1st
+69,-,-,1,0,Sri_Lanka,Rajkot,15-Dec-09,won,3 runs,lost,1st
+43,-,-,0,0,Sri_Lanka,Nagpur,18-Dec-09,lost,3 wickets,won,1st
+96*,-,-,0,0,Sri_Lanka,Cuttack,21-Dec-09,won,7 wickets,lost,2nd
+8,-,-,1,0,Sri_Lanka,Kolkata,24-Dec-09,won,7 wickets,lost,2nd
+4,-,-,0,0,South_Africa,Jaipur,21-Feb-10,won,1 runs,lost,1st
+200*,-,-,0,0,South_Africa,Gwalior,24-Feb-10,won,153 runs,won,1st
+7,-,-,0,0,South_Africa,Durban,12-Jan-11,lost,135 runs,lost,2nd
+24,-,-,0,0,South_Africa,Johannesburg,15-Jan-11,won,1 runs,won,1st
+28,-,-,0,0,Bangladesh,Dhaka,19-Feb-11,won,87 runs,lost,1st
+120,-,-,0,0,England,Bangalore,27-Feb-11,tied,-,won,1st
+38,-,-,0,0,Ireland,Bangalore,6-Mar-11,won,5 wickets,won,2nd
+27,-,-,0,0,Netherlands,Delhi,9-Mar-11,won,5 wickets,lost,2nd
+111,-,-,1,0,South_Africa,Nagpur,12-Mar-11,lost,3 wickets,won,1st
+2,-,-,0,0,West_Indies,Chennai,20-Mar-11,won,80 runs,won,1st
+53,0,9,0,0,Australia,Ahmedabad,24-Mar-11,won,5 wickets,lost,2nd
+85,-,-,1,0,Pakistan,Mohali,30-Mar-11,won,29 runs,won,1st
+18,0,12,0,0,Sri_Lanka,Mumbai,2-Apr-11,won,6 wickets,lost,2nd
+2,-,-,0,0,Australia,Melbourne,5-Feb-12,lost,65 runs,won,2nd
+48,-,-,1,0,Sri_Lanka,Perth,8-Feb-12,won,4 wickets,lost,2nd
+15,-,-,0,0,Sri_Lanka,Adelaide,14-Feb-12,tied,-,lost,2nd
+3,-,-,1,0,Australia,Brisbane,19-Feb-12,lost,110 runs,lost,2nd
+22,-,-,1,0,Sri_Lanka,Brisbane,21-Feb-12,lost,51 runs,lost,2nd
+14,-,-,0,0,Australia,Sydney,26-Feb-12,lost,87 runs,lost,2nd
+39,-,-,0,0,Sri_Lanka,Hobart,28-Feb-12,won,7 wickets,won,2nd
+6,-,-,1,0,Sri_Lanka,Dhaka,13-Mar-12,won,50 runs,lost,1st
+114,-,-,0,0,Bangladesh,Dhaka,16-Mar-12,lost,5 wickets,lost,1st
+52,0,12,0,0,Pakistan,Dhaka,18-Mar-12,won,6 wickets,lost,2nd
