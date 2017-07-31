@@ -32,9 +32,7 @@ def read_data():
 
     # print("keys :", keys, type(keys))
     # print("Data :", data, type(data))
-    #return keys, data
-    print "returning"
-    return ["Ganesh"], [25]
+    return keys, data
 
 '''
 if __name__ == "__main__":
